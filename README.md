@@ -1,4 +1,6 @@
-    FastAPI Tutorial
+FastAPI Tutorial
+
+
 Setup
 
     python -m venv venv
@@ -14,4 +16,5 @@ If you're running Linux or MacOS you'll instead run
 
 
 Running the app
+
     uvicorn main:app --reload
